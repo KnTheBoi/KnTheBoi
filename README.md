@@ -10,7 +10,7 @@ I like to learn a bit of here and there in different fields, and build projects 
 - HTML/CSS
 - Python
 - C#
-..
+- ..
 
 ## Contact me
 - Email: KnTheBoi@gmail.com
