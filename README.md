@@ -1,18 +1,18 @@
-Hello..
+## Hello..
 
 I'm Ngoc Khoi Nguyen Le, or Kn. A current undergrad at University of Technology Sydney, bachelor of Computing Science.
 I like to learn a bit of here and there in different fields, and build projects based on personal whims.
 
-##Programming skills
-C++
-Java
-JavaScript
-HTML/CSS
-Python
-C#
+## Programming skills
+- C++
+- Java
+- JavaScript
+- HTML/CSS
+- Python
+- C#
 ..
 
-##Contact me
+## Contact me
 Email: KnTheBoi@gmail.com
 Mobile: 0422801600
 <!--
