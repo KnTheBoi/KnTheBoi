@@ -15,7 +15,7 @@ I like to learn a bit of here and there in different fields, and build projects 
 ## Contact me
 - Email: KnTheBoi@gmail.com
 - Mobile: 0422801600
-- LinkedIn: [Ngoc Khoi Nguyen Le]((https://www.linkedin.com/in/ngoc-khoi-nguyen-le-747a49305/))
+- LinkedIn: [Ngoc Khoi Nguyen Le](https://www.linkedin.com/in/ngoc-khoi-nguyen-le-747a49305/)
 <!--
 **KnTheBoi/KnTheBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
